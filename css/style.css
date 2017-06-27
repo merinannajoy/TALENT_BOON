@@ -363,7 +363,7 @@ p a {
 }
 
 #content div#about div.section div a.callus {
-	background: url(../images/sprite-icons.gif) no-repeat 0 -232px;
+	/*background: url(../images/sprite-icons.gif) no-repeat 0 -232px;*/
 	color: #c04973;
 	display: block;
 	font-size: 18px;
@@ -372,15 +372,17 @@ p a {
 	margin-top: 20px;
 	padding-top: 10px;
 	text-decoration: none;
-	text-indent: 80px;
+	text-indent: 100px;
 }
 
 #content div#about div.section div a.callus span {
 	color: #852349;
 	display: block;
 	font-family: Trebuchet MS;
-	font-size: 25px;
+	font-size: 18px;
 	font-style: italic;
+	padding-top: 40px;
+	padding-left: 10px;
 }
 
 #content div#about div.aside span {
@@ -388,7 +390,7 @@ p a {
 	color: #DF4B9F;
     display: block;
     font-size: 18px;
-    text-indent: 0;
+    text-indent: 0px;
 }
 
 #content div#about div.aside p {
