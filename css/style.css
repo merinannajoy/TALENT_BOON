@@ -483,7 +483,7 @@ p a {
 	font-style: italic;
 	font-weight: normal;
 	margin: 0 0 5px;
-	padding-bottom: 0;
+	padding-bottom: 50px;
 	text-indent: 0;
 }
 
@@ -551,7 +551,7 @@ p a {
 }
 
 #content div.home div.section ul li img {
-	border: 6px solid #fefffa;
+	border: 6px solid #ffffff;
 }
 
 #content div form p {
